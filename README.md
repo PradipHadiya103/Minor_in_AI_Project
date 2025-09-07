@@ -1,4 +1,4 @@
-# AIProject — Small student-answer prediction prototype
+# Minor in AI Project — AI in Personalized Learning - Student-answer prediction prototype
 
 This repository contains a small end-to-end prototype to predict whether a student answers a question correctly. The workflow covers data loading, memory-friendly dtype casting, feature engineering (leakage-safe user/content statistics), a baseline LightGBM model, hyperparameter tuning, a reproducible tuned training step, evaluation, and tests.
 
@@ -139,3 +139,4 @@ python -m pytest -q
 - Tweak `requirements.txt` to pin specific versions.
 
 If you want, I can now create the CI workflow and/or the small data sample and then run the tests in CI locally. Let me know which one to do next.
+
