@@ -1,0 +1,13 @@
+{
+  "best_score": NaN,
+  "best_params": {
+    "subsample": 0.8,
+    "reg_lambda": 0.5,
+    "reg_alpha": 0.0,
+    "num_leaves": 31,
+    "n_estimators": 200,
+    "min_child_samples": 20,
+    "learning_rate": 0.03,
+    "colsample_bytree": 0.8
+  }
+}
